@@ -1,0 +1,9 @@
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Client\bin\Release\AdServices - Client.exe.config
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Client\bin\Release\AdServices - Client.exe
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Client\bin\Release\AdServices - Client.pdb
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Client\obj\Release\AdServices - Client.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Client\obj\Release\AdServices___Client.Form1.resources
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Client\obj\Release\AdServices___Client.Properties.Resources.resources
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Client\obj\Release\AdServices - Client.csproj.GenerateResource.Cache
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Client\obj\Release\AdServices - Client.exe
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Client\obj\Release\AdServices - Client.pdb

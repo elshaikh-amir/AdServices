@@ -1,0 +1,6 @@
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Server\bin\Release\AdServices - Server.exe.config
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Server\bin\Release\AdServices - Server.exe
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Server\bin\Release\AdServices - Server.pdb
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Server\obj\Release\AdServices - Server.exe
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Server\obj\Release\AdServices - Server.pdb
+C:\Users\Amir\Documents\Visual Studio 2012\Projects\AdServices - Server\AdServices - Server\obj\Release\AdServices - Server.csprojResolveAssemblyReference.cache
